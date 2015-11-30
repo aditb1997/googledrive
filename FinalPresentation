@@ -101,7 +101,7 @@ RawBlameHistory     456 lines (316 sloc)  19.4 KB
         Be creative, build your own. We don't really want all impress.js presentations to look the same,
         do we?
         
-        When creating your own presentation get rid of this file. Start from scratch, it's fun!
+        When creating your own presentation get rid of this file. Start from scratch, it's fun!!
         
     -->
     <link href="https://rhildred.github.io/impress.js/css/impress-demo.css" rel="stylesheet" />
